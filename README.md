@@ -106,6 +106,7 @@ Garmin Connect has no official MCP server. Cotlet.dev is a hosted MCP server tha
 - [Garmin Connect on Cotlet.dev](https://cotlet.dev/integrations/garmin-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=garmin&utm_content=find)
 - [PyPI package garmin-cotlet-mcp](https://pypi.org/project/garmin-cotlet-mcp/)
 - [Glama](https://glama.ai/mcp/servers/cotlet-connect/garmin-mcp)
+- [Odel](https://odel.app/modules/cotlet/garmin)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-garmin-to-ai-agents-guide)
 
 ## Also works with
